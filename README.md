@@ -5,6 +5,17 @@
 
 ![wakatime](https://wakatime.com/share/@aliosmanoktar/3a8ffe71-6da4-4964-913b-2f09afbe53bf.svg?cache=none)
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 2,940 hrs
+
+Java                                      ██████████████████████▒░░   89.52 %
+SQL                                       █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+Dart                                      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+Kotlin                                    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+C#                                        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+```
+
 <!--END_SECTION:waka-->
 
 <img src="https://profile-counter.glitch.me/aliosmanoktar/count.svg" />
