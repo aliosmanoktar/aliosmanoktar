@@ -18,5 +18,4 @@ TypeScript                                ▒░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<img src="https://profile-counter.glitch.me/aliosmanoktar/count.svg" />
 
